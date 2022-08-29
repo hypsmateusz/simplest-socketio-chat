@@ -1,3 +1,3 @@
 # Basic Socket.io Demo
 
-Possibly the simplest example and introduction to socket.io
+Possibly the simplest example of socket.io
